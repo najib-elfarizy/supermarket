@@ -98,7 +98,7 @@ conej.Open
 
 Exit Sub
 cek:
-    MsgBox ("Koneksi Gagal!"), vbInformation, "Info"
+    MsgBox ("Koneksi Database Gagal!"), vbInformation, "Info"
     'Setting_koneksi.Show 1
 Exit Sub
 pass:
