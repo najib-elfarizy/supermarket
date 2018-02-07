@@ -1,0 +1,2 @@
+sebelum membuka source code program, jalankan terlebih dahulu
+file install.bat yang ada di folder komponen
